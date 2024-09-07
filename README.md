@@ -38,4 +38,4 @@ MySQL | PostgreSQL | MongoDB | AWS | GCP
 ---
 
 ### 📬 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/muneebakramdev/) | [GitHub](https://github.com/muneeb71999) | muneebakram71999@gmail.com
+[LinkedIn](https://www.linkedin.com/in/muneebakramdev/) | muneebakram71999@gmail.com
