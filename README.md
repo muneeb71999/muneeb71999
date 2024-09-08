@@ -2,7 +2,7 @@
 
 **Full Stack Developer** | **JavaScript Enthusiast** | **Problem Solver**
 
-Passionate and self-taught software engineer with over 5 years of experience specializing in Web applications. I build efficient, scalable web and mobile apps using the latest tech. Passionate about clean code and user-centered design.
+Passionate and self-taught software engineer with over 4+ years of experience specializing in Web applications. I build efficient, scalable web and mobile apps using the latest tech. Passionate about clean code and user-centered design.
 
 ---
 
